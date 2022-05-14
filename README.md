@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I'm bad in fun...
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=adityabhavar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityabhavar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityabhavar1&theme=dark)](https://git.io/streak-stats)
 
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityabhavar&theme=dracula)](https://github.com/adityabhavar/github-readme-activity-graph)
