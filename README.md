@@ -3,12 +3,11 @@
 - 🔭 I’m currently working on Hardware Chatbot
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Open Source
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="330">
 - 💬 Ask me about Data Science and Techie related things
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityabhavar/) [Twitter](https://twitter.com/adibhavar)
 - 😄 Pronouns: Adi
 - ⚡ Fun fact: I'm bad in fun...
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="330">
 
 <p><em>Software Engineer at <a href="">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
