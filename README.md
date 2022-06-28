@@ -7,9 +7,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityabhavar/) [Twitter](https://twitter.com/adibhavar)
 - 😄 Pronouns: Adi
 - ⚡ Fun fact: I'm bad in fun...
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=adityabhavar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityabhavar&theme=dark)](https://git.io/streak-stats)
 
