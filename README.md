@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I'm bad in fun...
 
 <p><em>Software Engineer <a href="">
+  
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=adityabhavar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityabhavar&theme=dark)](https://git.io/streak-stats)
 
