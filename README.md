@@ -1,5 +1,4 @@
 ### Hi, I'm Aditya Bhavar! 👋  
-![](https://visitor-badge.glitch.me/badge?page_id=adityabhavar.adityabhavar)
 
 - 🔭 I’m currently working as a **Senior Data Engineer** at Namasys Pvt. Ltd.
 - 🌱 Exploring **MLOps**, **LLMs**, and **LangChain (LangGraph, MCP)** to build smarter AI solutions.
