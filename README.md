@@ -6,7 +6,7 @@ AI Enthusiast | Builder of Scalable Systems
 ---
 
 ## 🌟 Summary
-Results-driven Senior Data Engineer with 3+ years of experience building and optimizing scalable data pipelines and automating ETL workflows across AWS and Azure. Proven track record of reducing processing times by up to 98% and cutting cloud costs by over 60%. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)
+Results-driven Senior Data Engineer with 3+ years of experience building and optimizing scalable data pipelines and automating ETL workflows across AWS and Azure. Proven track record of reducing processing times by up to 98% and cutting cloud costs by over 60%.
 
 ---
 
