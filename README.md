@@ -94,11 +94,6 @@ End-to-end data infrastructure for integrating, processing, and analyzing enterp
 **Bachelor of Engineering in Electronics**  
 State University | GPA: 8.7 | Honors: AI & Machine Learning
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityabhavar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabhavar&layout=compact&theme=radical)
-
 ## 📫 Let's Connect!
 
 I'm always interested in challenging data engineering problems and collaborating on innovative projects. Feel free to reach out!
