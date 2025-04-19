@@ -1,40 +1,66 @@
-### Hi, I'm Aditya Bhavar! 👋  
+# Hi, I’m Aditya Bhavar! 👋
 
-- 🔭 I’m currently working as a **Senior Data Engineer** at Namasys Pvt. Ltd.
-- 🌱 Exploring **MLOps**, **LLMs**, and **LangChain (LangGraph, MCP)** to build smarter AI solutions.
-- 👯 I’m looking to collaborate on **open-source data engineering & ML projects**.
-- 💬 Ask me about **PySpark**, **AWS & Azure**, **ETL pipelines**, or **chatbot development**.
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adityabhavar/) | [GitHub](https://github.com/adityabhavar) | [Email](mailto:adityabhavar1006@gmail.com)
-- 😄 Pronouns: Adi
-- ⚡ Fun fact: I once reduced data pipeline run-time from **1 day to 20 minutes** 🤯
+**Senior Data Engineer** @ Namasys Pvt. Ltd.  
+AI Enthusiast | Builder of Scalable Systems
 
 ---
 
-#### 🚀 Projects & Highlights:
-
-- **AION - AI Lifecycle Management Platform**  
-  ⤷ Docker + REST APIs + Python for lifecycle automation  
-  ⤷ Reduced dev time by 30–40%, with 95% model reliability  
-
-- **Generative AI Chatbot for Authors**  
-  ⤷ Multi-agent chatbot using LangGraph & Crew AI  
-  ⤷ Deployed on AWS using Docker  
-
-- **Enterprise Data Pipelines**  
-  ⤷ 50+ optimized pipelines across AWS & Azure  
-  ⤷ Saved 60% on storage, 33% on compute with automated ETLs  
-  ⤷ Kafka-driven real-time updates  
+## 🌟 Summary
+Results-driven Senior Data Engineer with 3+ years of experience building and optimizing scalable data pipelines and automating ETL workflows across AWS and Azure. Proven track record of reducing processing times by up to 98% and cutting cloud costs by over 60%. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)
 
 ---
 
-#### 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python, Bash, ReactJS  
-**Frameworks:** PySpark, Flask, FastAPI, Django, Pandas, NumPy  
-**Cloud:** AWS (S3, Lambda, Redshift, Glue), Azure (ADF, ADLS, Functions, Synapse)  
-**Databases:** SQL, MongoDB, DynamoDB, Snowflake  
-**DevOps:** Docker, Kubernetes, GitHub Actions, Kafka, CI/CD  
+| Domain              | Tools & Technologies                                                                 |
+|---------------------|--------------------------------------------------------------------------------------|
+| **Languages**       | Python, Bash, ReactJS                                                                |
+| **Data Engineering**| PySpark, SQL, ETL Pipelines, Kafka                                                   |
+| **Cloud & DevOps**  | AWS (S3, Lambda, Redshift, Glue, EMR, ECS), Azure (ADF, ADLS, Synapse), Docker, Kubernetes, GitHub Actions |
+| **AI/ML & MLOps**   | Time-Series, Recommender Systems, NLP, LLMs, LangChain (LangGraph & MCP), Model Observability |
+| **Databases**       | SQL, MySQL, MongoDB, DynamoDB, Snowflake                                             |
 
 ---
 
-<p><em>Senior Data Engineer | AI Enthusiast | Builder of Scalable Systems</em></p>
+## 💼 Experience
+
+### Senior Data Engineer @ Namasys Pvt. Ltd. (May 2022 – Present)
+- **50+** scalable PySpark data pipelines on AWS & Azure, reducing code volume by **95%** and improving efficiency by **60%**. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)  
+- Automated ETL workflows for **100+ TB** of data, cutting compute costs by **33%** and storage costs by **60%**. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)  
+- Developed real-time update pipelines with Kafka to minimize ingestion lag. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)  
+- Built & optimized Redshift/SQL scripts, boosting storage efficiency by **35%**. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)  
+- Implemented CI/CD with GitHub Actions for automated code quality checks and deployments. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)  
+- Reduced batch processing time from **1–2 days** to **20–30 minutes** via PySpark optimizations. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)  
+- Led end‑to‑end AI/ML initiatives (GenAI chatbot, model drift detection), improving deployment performance by **20–40%**. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)
+
+---
+
+## 🚀 Projects
+
+### AION – AI Lifecycle Management Platform
+- Platform‑agnostic AI lifecycle automation (Docker, REST APIs, Python).  
+- Reduced dev time by **30–40%**; achieved **95%** model reliability with monitoring & drift analysis. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)
+
+### Generative AI Chatbot for Authors
+- Multi‑agent chatbot using LangGraph & Crew AI for content generation and author support.  
+- Containerized, AWS‑deployed solution using Docker for high scalability. Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)
+
+### Enterprise Data Pipelines
+- Designed & maintained **50+** pipelines on AWS & Azure, saving **60%** on storage and **33%** on compute.  
+- Integrated APIs into Azure SQL & AWS Redshift; automated data quality with GitHub Actions. ‡Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)
+
+---
+
+## 🎓 Education
+**B.E. in Electronics**, State University (GPA: 8.7)  
+Honors in AI & Machine Learning ‡Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/adityabhavar/) • [GitHub](https://github.com/adityabhavar) • adityabhavar1006@gmail.com
+
+---
+
+😄 Pronouns: Adi  
+⚡ Fun Fact: I once reduced a data pipeline run‑time from **1 day** to **20 minutes**! ‡Aditya_Bhavar_Resume.pdf](file-service://file-3xjvEFuUPD9GfxnJ1h79Dh)
